@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-03-30T10:00:00",
+    "ip": "192.168.1.10",
+    "event": "failed_login",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:10",
+    "ip": "192.168.1.10",
+    "event": "failed_login",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2026-03-30T10:00:20",
+    "ip": "192.168.1.10",
+    "event": "failed_login",
+    "user": "admin"
+  },
+  {
+    "timestamp": "2026-03-30T10:01:00",
+    "ip": "192.168.1.10",
+    "event": "success_login",
+    "user": "admin"
+  }
+]

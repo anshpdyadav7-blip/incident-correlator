@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Brute Force Attack",
+        "ip": "192.168.1.10",
+        "attempts": 3,
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "Suspicious Login Pattern",
+        "ip": "192.168.1.10",
+        "severity": "MEDIUM"
+    }
+]
